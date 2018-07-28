@@ -4,5 +4,7 @@ API. Typing a specific dish on the search bar would list out all the recipes ava
 features such as, the ingredients quantity for each recipe can be customized depending on the number of 
 servings, among other features.
 
+Technologies: JavaScript(ES6), AJAX, HTML5,CSS3
+
 How to run the application: 
 Go to the Forkify folder ->  Open the dist folder -> Click on the index.html file
