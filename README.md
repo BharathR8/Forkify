@@ -7,4 +7,4 @@ servings, among other features.
 Technologies: JavaScript(ES6), AJAX, HTML5,CSS3
 
 How to run the application: 
-Go to the Forkify folder ->  Open the dist folder -> Click on the index.html file
+Download the Project -> Go to the Forkify folder ->  Open the dist folder -> Click on the index.html file
